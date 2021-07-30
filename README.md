@@ -45,7 +45,7 @@ Basically, you just need to install an Add-In. You can either stick to the instr
     1. Move the cursor over the file, click right mouse button and click "Properties".
     1. At the bottom of the window find "Unblock" checkbox and check it. Then click "OK".
     1. If you don't have this checkbox, please, proceed to the rest of the steps.
-1. Move the downloaded file where it won't get in your way. I'd suggest `%AppData%\Microsoft\AddIns`.
+1. Move the downloaded file to where it won't get in your way. I'd suggest `%AppData%\Microsoft\AddIns`.
 1. Open PowerPoint.
 1. Click the "File" tab, and then click "Options".
 1. In the "Options" dialog box, click "Add-Ins".
