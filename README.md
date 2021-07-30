@@ -20,11 +20,19 @@ There're four versions of this Add-In, pick one you like the most. If you're not
 
 **3_columns** - the way it was intended; there are three columns, every menu has its own button.
 
+![3 cols](https://user-images.githubusercontent.com/34414488/127712015-765a4b80-64c2-4a74-9703-f339294b693a.png)
+
 **2_columns_no_duplicates** - two columns; menus with duplicate functionality has been removed, though, they still can be found in the "Drawing" panel.
+
+![2 no defs](https://user-images.githubusercontent.com/34414488/127712013-36589127-b07e-4900-9650-c71075178b37.png)
 
 **two_columns_merged** - two columns; dash options has been merged into "Dashes" menu; shadow and glow color menus has been moved to "Shape Effects" menu.
 
+![2 merged](https://user-images.githubusercontent.com/34414488/127712011-c6c05d23-0d0a-46e0-8a46-cfc098b2c160.png)
+
 **1_column** - one column; additional fill and dashes menus has been removed; shadow and glow color menus has been moved to "Shape Effects" menu; "Fix All" button has been moved to all three menus.
+
+![1 col](https://user-images.githubusercontent.com/34414488/127712006-50d0838a-0006-4b79-8557-8211c04d47aa.png)
 
 ## Installation process
 
