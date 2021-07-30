@@ -2,6 +2,8 @@
 
 Default PowerPoint's color picker messes grey colors for fill, borders, shadow and glow. PowerPointDarkThemeFix does this simple task right.
 
+![preview](https://user-images.githubusercontent.com/34414488/127713963-fd0b2e00-a898-4dc9-b4ff-210e53e69aa2.png)
+
 This Add-In adds a new group "Dark Theme Fix" to the "Home" and "Drawing Tools" tabs. This group contains clones of the default PowerPoint color picker and other controls.
 
 A new color picker applies right colors, though, it provides only default color scheme. To use a color scheme provided by the theme, use default controls.
