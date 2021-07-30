@@ -40,7 +40,7 @@ There're four versions of this Add-In, pick one you like the most. If you're not
 
 Basically, you just need to install an Add-In. You can either stick to the instructions below (copied from MS website) or find a better guide.
 
-1. Download [the latest release](). Don't download files by clicking the big green button that says "Code"! It's sources, you don't need them. Download from the provided link.
+1. Download [the latest release](https://github.com/matafokka/PowerPointDarkThemeFix/releases/latest). Don't download files by clicking the big green button that says "Code"! It's sources, you don't need them. Download from the provided link.
 1. "Unblock" the downloaded file:
     1. Move the cursor over the file, click right mouse button and click "Properties".
     1. At the bottom of the window find "Unblock" checkbox and check it. Then click "OK".
