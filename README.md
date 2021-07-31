@@ -1,6 +1,6 @@
 # PowerPointDarkThemeFix
 
-Default PowerPoint's color picker messes grey colors for fill, borders, shadow and glow. PowerPointDarkThemeFix does this simple task right.
+When a custom (especially dark) theme is applied, default PowerPoint's color picker messes grey colors for fill, borders, shadow and glow. PowerPointDarkThemeFix does this simple task right.
 
 ![preview](https://user-images.githubusercontent.com/34414488/127713963-fd0b2e00-a898-4dc9-b4ff-210e53e69aa2.png)
 
@@ -71,6 +71,10 @@ If you don't have a defined style, pick bluish colors for shadow and yellowish f
 Though, there are cases when you'll want to use straight grey colors, such as black and white style, so this Add-In still nice to have.
 
 # FAQ
+
+## Do I need it if I use light theme?
+
+Yes, since it almsot 100% alters system colors which PowerPoint uses.
 
 ## Why new color picker is different from the default? Also, why not change existing one?
 
