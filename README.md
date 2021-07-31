@@ -10,7 +10,7 @@ A new color picker applies right colors, though, it provides only default color 
 
 There's also a "Fix All" button which will fix all opened presentations.
 
-Check out [project's Deviant Art page](https://www.deviantart.com/matafokka/art/PowerPointDarkThemeFix-887403988) for general discussion.
+Check out [project's DeviantArt page](https://www.deviantart.com/matafokka/art/PowerPointDarkThemeFix-887403988) for general discussion.
 
 If you find this Add-In useful, you also might want to get [ExcelDarkThemeFix](https://github.com/matafokka/ExcelDarkThemeFix).
 
